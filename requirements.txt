@@ -1,1 +1,2 @@
 nbsphinx
+git+git://github.com/LudvigEk/AliGater@master
