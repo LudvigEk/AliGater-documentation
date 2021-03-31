@@ -14,14 +14,14 @@
 #
 import os
 import sys
-sys.path.insert(0,"/media/ludvig/Project_Storage/BloodVariome/aligater/aligater")
-sys.path.append(os.path.abspath('../aligater'))
-sys.path.append(os.path.abspath('..'))
+#sys.path.insert(0,"/media/ludvig/Project_Storage/BloodVariome/aligater/aligater")
+#sys.path.append(os.path.abspath('../aligater'))
+#sys.path.append(os.path.abspath('..'))
 
 # -- Project information -----------------------------------------------------
 
 project = 'AliGater'
-copyright = '2020, Ludvig Ekdahl'
+copyright = '2021, Ludvig Ekdahl'
 author = 'Ludvig Ekdahl'
 
 # The short X.Y version
